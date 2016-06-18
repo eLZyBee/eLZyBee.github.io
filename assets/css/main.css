@@ -2734,8 +2734,8 @@
 		input[type="button"]:active,
 		.button:hover,
 		.button:active {
-			box-shadow: inset 0 0 0 1px #36b793;
-			color: #36b793 !important;
+			box-shadow: inset 0 0 0 1px #36b8b8;
+			color: #36b8b8 !important;
 		}
 
 		input[type="submit"]:active,
@@ -2779,7 +2779,7 @@
 		input[type="reset"].special,
 		input[type="button"].special,
 		.button.special {
-			background-color: #36b793;
+			background-color: #36b8b8;
 			box-shadow: none;
 			color: #ffffff !important;
 		}
@@ -2965,10 +2965,10 @@
 			-ms-transition: -ms-transform 1s ease, opacity 1s ease;
 			transition: transform 1s ease, opacity 1s ease;
 			/*background: rgba(23, 24, 32, 0.95);*/
-			background: -moz-linear-gradient(top, rgba(30, 114, 75, 0.8), rgba(131, 48, 48, 0.95));
-			background: -webkit-linear-gradient(top, rgba(30, 114, 75, 0.8), rgba(131, 48, 48, 0.95));
-			background: -ms-linear-gradient(top, rgba(30, 114, 75, 0.8), rgba(131, 48, 48, 0.95));
-			background: linear-gradient(top, rgba(30, 114, 75, 0.8), rgba(131, 48, 48, 0.95));
+			background: -moz-linear-gradient(top, rgba(38, 136, 136, 0.8), rgba(131, 48, 48, 0.95));
+			background: -webkit-linear-gradient(top, rgba(38, 136, 136, 0.8), rgba(131, 48, 48, 0.95));
+			background: -ms-linear-gradient(top, rgba(38, 136, 136, 0.8), rgba(131, 48, 48, 0.95));
+			background: linear-gradient(top, rgba(38, 136, 136, 0.8), rgba(131, 48, 48, 0.95));
 			border-style: solid;
 			opacity: 1;
 			position: absolute;
@@ -3082,15 +3082,15 @@
 /* Wrapper */
 
 	.wrapper {
-		background: -moz-linear-gradient(top, rgba(30, 114, 75, 0.8), rgba(131, 48, 48, 0.95));
-		background: -webkit-linear-gradient(top, rgba(30, 114, 75, 0.8), rgba(131, 48, 48, 0.95));
-		background: -ms-linear-gradient(top, rgba(30, 114, 75, 0.8), rgba(131, 48, 48, 0.95));
-		background: linear-gradient(top, rgba(30, 114, 75, 0.8), rgba(131, 48, 48, 0.95));
+		background: -moz-linear-gradient(top, rgba(38, 136, 136, 0.8), rgba(131, 48, 48, 0.95));
+		background: -webkit-linear-gradient(top, rgba(38, 136, 136, 0.8), rgba(131, 48, 48, 0.95));
+		background: -ms-linear-gradient(top, rgba(38, 136, 136, 0.8), rgba(131, 48, 48, 0.95));
+		background: linear-gradient(top, rgba(38, 136, 136, 0.8), rgba(131, 48, 48, 0.95));
 		padding: 6em 0 4em 0;
 	}
 
 		.wrapper.style2 {
-			background: #36b793;
+			background: #36b8b8;
 		}
 
 			.wrapper.style2 input[type="text"]:focus,
@@ -3360,10 +3360,10 @@
 		}
 
 		#banner:after {
-			background-image: -moz-linear-gradient(top, rgba(43, 226, 142, 0.33), rgba(131, 48, 48, 0.95)), url("images/overlay.png");
-			background-image: -webkit-linear-gradient(top, rgba(43, 226, 142, 0.33), rgba(131, 48, 48, 0.95)), url("images/overlay.png");
-			background-image: -ms-linear-gradient(top, rgba(43, 226, 142, 0.33), rgba(131, 48, 48, 0.95)), url("images/overlay.png");
-			background-image: linear-gradient(top, rgba(43, 226, 142, 0.33), rgba(131, 48, 48, 0.95)), url("images/overlay.png");
+			background-image: -moz-linear-gradient(top, rgba(43, 226, 204, 0.33), rgba(131, 48, 48, 0.95)), url("images/overlay.png");
+			background-image: -webkit-linear-gradient(top, rgba(43, 226, 204, 0.33), rgba(131, 48, 48, 0.95)), url("images/overlay.png");
+			background-image: -ms-linear-gradient(top, rgba(43, 226, 204, 0.33), rgba(131, 48, 48, 0.95)), url("images/overlay.png");
+			background-image: linear-gradient(top, rgba(43, 226, 204, 0.33), rgba(131, 48, 48, 0.95)), url("images/overlay.png");
 			content: '';
 			display: block;
 			height: 100%;
@@ -3422,10 +3422,10 @@
 
 	#footer {
 		/*background: #272833;*/
-		background: -moz-linear-gradient(top, rgba(30, 114, 75, 0.8), rgba(131, 48, 48, 0.95));
-		background: -webkit-linear-gradient(top, rgba(30, 114, 75, 0.8), rgba(131, 48, 48, 0.95));
-		background: -ms-linear-gradient(top, rgba(30, 114, 75, 0.8), rgba(131, 48, 48, 0.95));
-		background: linear-gradient(top, rgba(30, 114, 75, 0.8), rgba(131, 48, 48, 0.95));
+		background: -moz-linear-gradient(top, rgba(38, 136, 136, 0.8), rgba(131, 48, 48, 0.95));
+		background: -webkit-linear-gradient(top, rgba(38, 136, 136, 0.8), rgba(131, 48, 48, 0.95));
+		background: -ms-linear-gradient(top, rgba(38, 136, 136, 0.8), rgba(131, 48, 48, 0.95));
+		background: linear-gradient(top, rgba(38, 136, 136, 0.8), rgba(131, 48, 48, 0.95));
 		padding: 6em 0;
 		text-align: center;
 	}
